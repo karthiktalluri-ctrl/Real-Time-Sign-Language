@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless<4.10
+mediapipe
+tensorflow<2.16
+scikit-learn
+numpy==1.24.3
